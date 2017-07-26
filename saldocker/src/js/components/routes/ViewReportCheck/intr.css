@@ -1,0 +1,11 @@
+/*.tchecs {
+  border: 1px solid black;
+  margin: 10px;
+}*/
+.tchecl, .tchec {
+  float: left;
+}
+
+.tchec {
+  margin: 2px;
+}

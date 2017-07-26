@@ -1,0 +1,12 @@
+$floatnote: left;
+$marginnote: 2px;
+
+
+.tchecl {
+  float: $floatnote;
+}
+
+.tchec {
+  @extend .tchecl;
+  margin: $marginnote;
+}

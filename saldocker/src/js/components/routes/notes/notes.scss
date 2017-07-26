@@ -1,0 +1,7 @@
+$bordernote: 1px solid black;
+$marginnote: 10px;
+
+.tnote {
+  border: $bordernote;
+  margin: $marginnote;
+}

@@ -1,0 +1,35 @@
+.buttonAlign{
+padding-bottom: 10px;
+}
+.backbutton{
+  padding-top: 15px;
+  padding-left: 10px;
+
+}
+.nextStepShadow{
+
+  border: 1px solid #edf3f8;
+  background-color: white !important;
+  border-radius: 5px;
+  margin: 10px;
+  color: #666666;
+
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 4px 0 rgba(0, 0, 0, 0.19);
+  -moz-box-shadow:   0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 4px 0 rgba(0, 0, 0, 0.19);
+ -webkit-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 4px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.tabheight {
+  line-height: 1.0;
+}
+
+.nav-tabs>li>a {
+  line-height: 1.0;
+  padding: 10px 10px;
+}
+
+
+ul {
+padding: 0rem 0rem 0.4rem 0rem;
+}

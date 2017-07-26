@@ -1,0 +1,30 @@
+/*.tchecl, .tchec {
+  float: left; }
+
+.tchec {
+  margin: 2px; }
+
+.tchecs {
+  border: 1px solid black;
+  margin: 10px; }
+
+.tdet {
+  float: left; }
+
+.tnote {
+  border: 1px solid black;
+  margin: 10px; }*/
+
+
+.onHover:hover  {
+  box-shadow: 0 4px 4px 0 #00539f, 0 4px 4px 0 #00539f;
+  -moz-box-shadow:   0 4px 4px 0 #00539f, 0 4px 4px 0 #00539f;
+  -webkit-box-shadow: 0 4px 4px 0 #00539f, 0 4px 4px 0 #00539f;
+}
+
+label {
+  font-weight: 100;
+}
+
+
+/* background-color: #DCDCDC; */
